@@ -1,0 +1,16 @@
+{
+    "name": "discord-calculator",
+    "version": "1.0.0",
+    "author": "Josey C. Wörmann (https://github.com/joseywoermann)",
+    "dependencies": {
+        "discord-interactions": "^2.4.1",
+        "mathjs": "^9.5.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joseywoermann/discord-calculator.git"
+    },
+    "bugs": {
+        "url": "https://github.com/joseywoermann/discord-calculator/issues"
+    }
+}
