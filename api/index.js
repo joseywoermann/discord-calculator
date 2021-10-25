@@ -42,7 +42,7 @@ module.exports = async (request, response) => {
                                     type: 2,
                                     label: "Support",
                                     style: 5,
-                                    url: `https://github.com/joseywoermann/calc-bot`,
+                                    url: `https://github.com/joseywoermann/discord-calculator/`,
                                 },
                             ],
                         },
