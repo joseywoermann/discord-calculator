@@ -70,6 +70,7 @@ module.exports = async (request, response) => {
                             description: `= ${expression}`,
                         },
                     ],
+                    flags: 64,
                 },
             });
             console.log("Calculate request");
